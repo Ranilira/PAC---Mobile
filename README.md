@@ -7,7 +7,7 @@ Flutter
 Firebase
 Git
 
-### 🍍 Justificativa do Projeto: 
+### 🔗 Justificativa do Projeto: 
 Segundo a Meltwater (2024) com o Report Digital Global, existe 8,65 bilhões de dispositivos mobiles conectados contra 8,06 bilhões de pessoas no mundo, pode-se concluir que existe mais celulares que a população mundial. Do ponto de vista da Cibersegurança, o uso de senhas fracas para contas com informações pessoais e informações sensíveis não são seguras para proteger essas informações.
 
 Empresas privadas e órgãos públicos de Segurança Digital recomendam usar senhas fortes e únicas para as contas digitais, órgãos como Centro Nacional de Cibersegurança (NCSC) e a Agência de Segurança de Ciber Seguranca e Infraestrutura dos Estados Unidos também recomendam o uso de um gerenciador de senhas para lembrar das senhas criadas.

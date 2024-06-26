@@ -4,6 +4,7 @@ O propósito do projeto consiste no desenvolvimento de um aplicativo focado no g
 #### 🔗 Tecnologia utilizada para desenvolver o aplicativo:
 - [Android Studio ](https://developer.android.com/studio?hl=pt-br)
 - [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
 - [Firebase](https://firebase.google.com/?hl=pt)
 - [Git](https://git-scm.com/)
 
